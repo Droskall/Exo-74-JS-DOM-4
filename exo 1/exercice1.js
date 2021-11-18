@@ -4,7 +4,7 @@ let catDiv = document.getElementById("cat-chat");
 
 catImage.addEventListener("click", function (event) {
     event.preventDefault();
-    catDiv.innerHTML = "Miaou";
+    catDiv.innerHTML = "Sert moi a manger esclave !";
 })
 
 
